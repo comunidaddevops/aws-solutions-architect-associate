@@ -1,4 +1,4 @@
-# Domain 1: Design Secure Architectures - Implementing Elasticity
+# Domain 2: Design Resilient Architectures - Implementing Elasticity
 
 ## Overview
 This is the second practical exercise for the **AWS Certified Solutions Architect - Associate** certification. This scenario covers **Implementing Elasticity** simulating a Gaming Server environment.

@@ -23,6 +23,10 @@ The practical exercises in this repository align with the official exam domains:
 - [**1. Creating a Network for a Web Application**](./1-creating-a-network-for-a-web-application)
   *Design and build an Amazon Virtual Private Cloud (VPC) with public and private subnets across multiple Availability Zones, implementing secure routing and a publicly accessible EC2 web server.*
 
+### Domain 2: Design Resilient Architectures
+- [**2. Implementing Elasticity**](./2-implementing-elasticity)
+  *Build a scalable and highly available gaming server architecture using Application Load Balancers (ALB) and Auto Scaling Groups (ASG), implementing target tracking policies and scheduled actions to handle variable demand.*
+
 *(More exercises will be added as I progress through my continuous learning journey!)*
 
 ## 🛠️ Repository Best Practices
